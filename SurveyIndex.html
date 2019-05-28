@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Silly Survey</title>
+    <link type="text/css" rel="stylesheet" href="SurveyStylesheet.css">
 </head>
 <h1 id="title">The Silly Survey</h1>
 <h2>A quid pro quo about nothing. </h2>
@@ -17,47 +18,49 @@
         <label for="number-label"  id="number-label"> Years on the Planet </label>
         <input id="number" type="number" min="14" max="120" placeholder="age">
 
-<div>
-        <fieldset id="dropdown">
-            <legend>Attributes</legend>
-            <section>
-                <select>
-                    <option value="positive"> Positive</option>
+        <div>
+            <fieldset id="dropdown">
+                <legend>Attributes</legend>
+                <section>
+                    <select>
+                        <option value="positive"> Positive</option>
 
-                    <option value="negative"> Negative</option>
-
-
-
-                    <label><input type="radio" name="positive-attributes"> Bubbly</label>
-                    <label><input type="radio" name="positive-attributes"> Loving</label>
-
-            <p>
-
-                <label><input type="checkbox" name="negative-attributes"> Loud</label>
-                <label><input type="checkbox" name="negative-attributes"> Colorful</label>
-                <label><input type="checkbox" name="negative-attributes"> Depressed</label>
-                <br>
-
-
-</p>
-            </section>
-        </fieldset>
-
-        <br>
+                        <option value="negative"> Negative</option>
 
 
 
 
-    </div>
+                </section>
+            </fieldset>
+
+            <label><input type="radio" name="positive-attributes"> Bubbly</label>
+            <label><input type="radio" name="positive-attributes"> Loving</label>
+            <label><input type="radio" name="negative-attributes"> Loud</label>
+            <label><input type="radio" name="negative-attributes"> Colorful</label>
+            <label><input type="radio" name="negative-attributes"> Depressed</label>
+
+            <br>
+            <label><input type="checkbox" name="value"> Very Important</label>
+            <label><input type="checkbox" name="value"> Important</label>
+            <label><input type="checkbox" name="value"> Meh</label>
+            <label><input type="checkbox" name="value"> Not Important</label>
+            <label><input type="checkbox" name="value"> Seriously?</label>
+            <br>
+
+            <textarea class="comment-box" type="text" name="Comments"> Additional Comments</textarea>
+
+
+        </div>
 
 
 
-        <button type="submit">Finish and Submit</button>
+        <button id="submit" type="submit">Finish and Submit</button>
 
 
 
     </form>
 </div>
+
 
 </body>
 </html>

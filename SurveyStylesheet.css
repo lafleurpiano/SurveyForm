@@ -2,3 +2,8 @@
     font-size: 3em;
 }
 .
+.comment-box {
+    height: auto;
+    width: auto;
+    display: block;
+}

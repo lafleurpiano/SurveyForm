@@ -10,16 +10,53 @@
 <p id="description">Ever want to waste time answering questions that are irrelevant? Look no further! </p>
 <div >
     <form id="survey-form" action ="/submit-form">
-
-          <input id="name" type="text" required placeholder="enter name ">
+        <label for="name-label" id="name-label"> Name </label>
+        <input id="name" type="text" required placeholder="enter name ">
+        <label for="email-label"  id="email-label"> Email </label>
         <input id="email" type="email" required placeholder="enter email ">
+        <label for="number-label"  id="number-label"> Years on the Planet </label>
         <input id="number" type="number" min="14" max="120" placeholder="age">
+
+<div>
+        <fieldset id="dropdown">
+            <legend>Attributes</legend>
+            <section>
+                <select>
+                    <option value="positive"> Positive</option>
+
+                    <option value="negative"> Negative</option>
+
+
+
+                    <label><input type="radio" name="positive-attributes"> Bubbly</label>
+                    <label><input type="radio" name="positive-attributes"> Loving</label>
+
+            <p>
+
+                <label><input type="checkbox" name="negative-attributes"> Loud</label>
+                <label><input type="checkbox" name="negative-attributes"> Colorful</label>
+                <label><input type="checkbox" name="negative-attributes"> Depressed</label>
+                <br>
+
+
+</p>
+            </section>
+        </fieldset>
+
+        <br>
+
+
+
+
+    </div>
+
+
 
         <button type="submit">Finish and Submit</button>
 
 
 
-        </form>
+    </form>
 </div>
 
 </body>

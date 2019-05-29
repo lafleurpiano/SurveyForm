@@ -10,41 +10,53 @@
 
 <p id="description">Ever want to waste time answering questions that are irrelevant? Look no further! </p>
 <div >
+    <h3>* Denotes required fields</h3>
+
     <form id="survey-form" action ="/submit-form">
-        <label for="name-label" id="name-label"> Name </label>
-        <input id="name" type="text" required placeholder="enter name ">
-        <label for="email-label"  id="email-label"> Email </label>
-        <input id="email" type="email" required placeholder="enter email ">
-        <label for="number-label"  id="number-label"> Years on the Planet </label>
-        <input id="number" type="number" min="14" max="120" placeholder="age">
+        <label for="name-label" id="name-label"> * Name
+        <input id="name" type="text" required placeholder="enter name "></label>
+        <label for="email-label"  id="email-label"> * Email
+        <input id="email" type="email" required placeholder="enter email "></label>
+        <label for="number-label"  id="number-label"> * Years on the Planet
+        <input id="number" type="number" min="14" max="120" placeholder="age"> </label>
 
         <div>
             <fieldset id="dropdown">
-                <legend>Attributes</legend>
+                <legend>Please fill out completely before hitting the submit button!</legend>
+
+                <p> How would you rate your overall personality? </p>
                 <section>
                     <select>
                         <option value="positive"> Positive</option>
 
                         <option value="negative"> Negative</option>
 
-
+                        <option value="not-sure"> Huh?</option></select>
 
 
                 </section>
-            </fieldset>
-
-            <label><input type="radio" name="positive-attributes"> Bubbly</label>
-            <label><input type="radio" name="positive-attributes"> Loving</label>
-            <label><input type="radio" name="negative-attributes"> Loud</label>
-            <label><input type="radio" name="negative-attributes"> Colorful</label>
-            <label><input type="radio" name="negative-attributes"> Depressed</label>
 
             <br>
-            <label><input type="checkbox" name="value"> Very Important</label>
-            <label><input type="checkbox" name="value"> Important</label>
-            <label><input type="checkbox" name="value"> Meh</label>
-            <label><input type="checkbox" name="value"> Not Important</label>
-            <label><input type="checkbox" name="value"> Seriously?</label>
+
+
+           <p> How important is considering personality when selecting friends?</p>
+
+            <label><input type="radio" value="1" name="value"> Very Important</label>
+           <label><input type="radio" value="2" name="value"> Important</label>
+            <label><input type="radio" value="3" name="value"> Meh</label>
+            <label><input type="radio" value="4" name="value"> Not Important</label>
+            <label><input type="radio" value="5" name="value"> Seriously?</label>
+            <br>
+
+            <p> Which attribute best describes your personality?</p>
+
+            <label><input type="checkbox" value="1" name="positive-attributes"> Bubbly</label>
+            <label><input type="checkbox" value="2" name="positive-attributes"> Loving</label>
+            <label><input type="checkbox" value="3" name="negative-attributes"> Loud</label>
+            <label><input type="checkbox" value="4" name="negative-attributes"> Colorful</label>
+            <label><input type="checkbox" value="5" name="negative-attributes"> Depressed</label>
+
+
             <br>
 
             <textarea class="comment-box" type="text" name="Comments"> Additional Comments</textarea>
@@ -60,7 +72,7 @@
 
     </form>
 </div>
-
+</fieldset>
 
 </body>
 </html>

@@ -5,21 +5,30 @@
     <title>Silly Survey</title>
     <link type="text/css" rel="stylesheet" href="SurveyStylesheet.css">
 </head>
-<h1 id="title">The Silly Survey</h1>
-<h2>A quid pro quo about nothing. </h2>
+<header id="header">
+<h1 id="title" class="title">The Silly Survey</h1>
+<h2>(A quid pro quo about nothing.) </h2>
 
-<p id="description">Ever want to waste time answering questions that are irrelevant? Look no further! </p>
-<div >
-    <h3>* Denotes required fields</h3>
+<p id="description" class="description">Ever want to waste time answering questions that are irrelevant? Look no further! </p>
+</header>
+<div class="required-form">
 
-    <form id="survey-form" action ="/submit-form">
+
+    <form id="survey-form" class="survey-form" action ="/submit-form">
         <label for="name-label" id="name-label"> * Name
         <input id="name" type="text" required placeholder="enter name "></label>
+        <br>
+        <br>
         <label for="email-label"  id="email-label"> * Email
         <input id="email" type="email" required placeholder="enter email "></label>
+        <br>
+        <br>
         <label for="number-label"  id="number-label"> * Years on the Planet
         <input id="number" type="number" min="14" max="120" placeholder="age"> </label>
+        <br>
+        <br>
 
+        <h3>* Denotes required fields</h3>
         <div>
             <fieldset id="dropdown">
                 <legend>Please fill out completely before hitting the submit button!</legend>
@@ -47,8 +56,9 @@
             <label><input type="radio" value="4" name="value"> Not Important</label>
             <label><input type="radio" value="5" name="value"> Seriously?</label>
             <br>
+                <br>
 
-            <p> Which attribute best describes your personality?</p>
+            <p> Which attribute best describes your personality? (Select all that apply.)</p>
 
             <label><input type="checkbox" value="1" name="positive-attributes"> Bubbly</label>
             <label><input type="checkbox" value="2" name="positive-attributes"> Loving</label>
@@ -58,14 +68,16 @@
 
 
             <br>
+                <br>
+                <br>
 
-            <textarea class="comment-box" type="text" name="Comments"> Additional Comments</textarea>
+            <textarea class="comment-box" type="text" name="Comments"> additional comments</textarea>
 
 
         </div>
 
 
-
+<br>
         <button id="submit" type="submit">Finish and Submit</button>
 
 

@@ -2,46 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15fd841e-81df-43ff-85a3-307e6175fdd0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SurveyIndex.html" beforeDir="false" afterPath="$PROJECT_DIR$/SurveyIndex.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/css/ui.dropdownchecklist.standalone.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/css/ui.dropdownchecklist.themeroller.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/doc/ddcl-tests.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/doc/demo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/doc/dropdownchecklist.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/doc/jquery-1.11.2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/doc/jquery-ui-1.11.2.custom.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/doc/smoothness-1.11.2/images/ui-bg_flat_0_aaaaaa_40x100.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/doc/smoothness-1.11.2/images/ui-bg_flat_75_ffffff_40x100.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/doc/smoothness-1.11.2/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/doc/smoothness-1.11.2/images/ui-bg_glass_65_ffffff_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/doc/smoothness-1.11.2/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/doc/smoothness-1.11.2/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/doc/smoothness-1.11.2/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/doc/smoothness-1.11.2/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/doc/smoothness-1.11.2/images/ui-icons_222222_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/doc/smoothness-1.11.2/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/doc/smoothness-1.11.2/images/ui-icons_454545_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/doc/smoothness-1.11.2/images/ui-icons_888888_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/doc/smoothness-1.11.2/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/doc/smoothness-1.11.2/jquery-ui-1.11.2.custom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/doc/ui.dropdownchecklist-1.5-min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/doc/ui.dropdownchecklist.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/doc/ui.dropdownchecklist.standalone.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/doc/ui.dropdownchecklist.themeroller.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/js/ui.dropdownchecklist-1.5-min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/src/GPL-LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/src/MIT-LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/src/changes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/src/jquery-1.11.2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/src/jquery-1.11.2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/src/jquery-ui-1.11.2.custom.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/src/jquery-ui-1.11.2.custom.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/src/jquery-ui-1.11.2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/src/jquery-ui-1.11.2.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/src/ui.dropdownchecklist.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/src/ui.dropdownchecklist.standalone.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dropdown-check-list.1.5/src/ui.dropdownchecklist.themeroller.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SurveyStylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/SurveyStylesheet.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -55,20 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SurveyIndex.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SurveyIndex.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SurveyIndex.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="56" column="52" selection-start-line="56" selection-start-column="52" selection-end-line="56" selection-end-column="52" />
+            <state relative-caret-position="180">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SurveyStylesheet.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SurveyStylesheet.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SurveyStylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="1" lean-forward="true" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="480">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
@@ -89,8 +51,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SurveyStylesheet.css" />
         <option value="$PROJECT_DIR$/SurveyIndex.html" />
+        <option value="$PROJECT_DIR$/SurveyStylesheet.css" />
       </list>
     </option>
   </component>
@@ -104,7 +66,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="9" />
+    <option name="x" value="14" />
     <option name="y" value="23" />
     <option name="width" value="1400" />
     <option name="height" value="837" />
@@ -122,6 +84,10 @@
             <path>
               <item name="SurveyForm" type="b2602c69:ProjectViewProjectNode" />
               <item name="SurveyForm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SurveyForm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
           <select />
@@ -164,15 +130,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559065658745</updated>
-      <workItem from="1559065660209" duration="17504000" />
+      <workItem from="1559065660209" duration="20639000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17504000" />
+    <option name="totallyTimeSpent" value="20639000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="9" y="23" width="1400" height="837" extended-state="0" />
+    <frame x="14" y="23" width="1400" height="837" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -201,17 +167,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SurveyStylesheet.css">
+    <entry file="file://$PROJECT_DIR$/SurveyIndex.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="1" lean-forward="true" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="180">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SurveyIndex.html">
+    <entry file="file://$PROJECT_DIR$/SurveyStylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="56" column="52" selection-start-line="56" selection-start-column="52" selection-end-line="56" selection-end-column="52" />
+        <state relative-caret-position="480">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>

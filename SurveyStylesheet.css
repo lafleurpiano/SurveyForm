@@ -1,9 +1,47 @@
 .title {
-    font-size: 3em;
+    font-size: 3.5em;
+    text-align: center;
+    font-weight: bolder;
+    font-family: Chalkboard;
 }
-.
+h2 {
+    font-size: 1.25em;
+    font-family: Chalkboard;
+    text-align: center;
+}
 .comment-box {
-    height: auto;
-    width: auto;
+    height: 75px;
+    width: 400px;
     display: block;
+}
+.description {
+    font-size: 1em;
+    text-align: center;
+
+}
+h3 {
+    font-size: .75em;
+    text-align: justify;
+}
+
+.main {
+    background-color: #f0ffff;
+}
+.required-form {
+    padding: 10px;
+    margin: 10px;
+
+}
+.survey-form {
+padding: 10px;
+    margin: 20px;
+    background-color: aliceblue;
+    border-radius: 20px;
+}
+#header {
+
+    background-color: #a5d7ff;
+    border-radius: 20px;
+    padding: 10px;
+    margin: auto;
 }
